@@ -1,13 +1,13 @@
-# Conversational-Image-Recognition-Chatbot
-This project is a lightweight AI-powered chatbot that can analyze images and answer questions about them. It combines Flask, Google Gemini 1.5 Flash, and a simple HTML frontend, with public hosting enabled using ngrok.
-🛠️ Tech Stack
+# IQMath Technologies - Conversational-Image-Recognition-Chatbot
+This project is a lightweight AI-powered chatbot that can analyze images and answer questions about them. It combines Flask, Google Gemini 1.5 Flash, and a simple HTML frontend, with public hosting enabled using ngrok. **This Project is done by Pranav J, Litin S, Mohanraj M.**
+# 🛠️ Tech Stack
 Backend: Python + Flask (running on Google Colab)
 
 Frontend: HTML, CSS, JavaScript (no frameworks)
 
-AI Model: Google Gemini 1.5 Flash (via Generative AI API)
+AI Model: **Google Gemini 1.5 Flash** (via Generative AI API)
 
-Public URL Exposure: ngrok (tunnel Colab backend to web)
+Public URL Exposure: **ngrok **(tunnel Colab backend to web)
 
 🚀 Features
 Upload an image from your device 📷
